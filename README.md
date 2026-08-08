@@ -51,3 +51,8 @@ FastQC · Trimmomatic · BWA · samtools · Picard · GATK4 (MuTect2) · Ensembl
 ---
 
 This project was completed as part of the EMBL-EBI Cancer Genomics and Transcriptomics Course 2024, using publicly available reference data from the COLO829 melanoma cell line (Valle-Inclan et al., 2022).
+
+## Additional Result Files
+
+- results/04_mutect2/mutect2.vcf — raw, unfiltered MuTect2 variant calls (3,273 variants)
+- results/04_mutect2/mutect2_pass.vcf — PASS-filtered high-confidence variant calls (2,543 variants)
