@@ -49,5 +49,3 @@ FastQC · Trimmomatic · BWA · samtools · Picard · GATK4 (MuTect2) · Ensembl
 - results/ — final filtered mutation results with functional annotations
 
 ---
-
-This project was completed as part of the EMBL-EBI Cancer Genomics and Transcriptomics Course 2024, using publicly available reference data from the COLO829 melanoma cell line (Valle-Inclan et al., 2022).
