@@ -53,5 +53,3 @@ FastQC · Trimmomatic · BWA · samtools · Picard · GATK4 (MuTect2) · Ensembl
 
 - results/04_mutect2/mutect2.vcf — raw, unfiltered MuTect2 variant calls (3,273 variants)
 - results/04_mutect2/mutect2_pass.vcf — PASS-filtered high-confidence variant calls (2,543 variants)
-=======
->>>>>>> 98c37eed93fa5e2d6be51a1abe5ea7cbb123da4c
