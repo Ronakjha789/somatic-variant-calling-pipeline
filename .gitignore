@@ -1,0 +1,9 @@
+data/
+*.bam
+*.bai
+*.sam
+*.fastq.gz
+*.fa
+*.fai
+*.dict
+vep_cache/
